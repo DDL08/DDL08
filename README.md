@@ -39,7 +39,7 @@
 - 🌱 I’m currently learning Penetration
 - 🌱 I’m currently learning Virus AV
 - 🤔 I’m looking for help with 👆
-I am willing to make friends and hope to communicate and discuss tool development and red team penetration. If you want to contact me, please send an email to the email address below 👇
+- I am willing to make friends and hope to communicate and discuss tool development and red team penetration. If you want to contact me, please send an email to the email address below 👇
 - 📫 ddl08@qq.com
 
 
