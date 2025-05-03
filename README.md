@@ -14,6 +14,7 @@
 
 - 🤔 I’m looking for help with 渗透
 
+<a href="https://wakatime.com/@4d4c2085-e3e6-4146-ab02-73eae32c7db6"><img src="https://wakatime.com/badge/user/4d4c2085-e3e6-4146-ab02-73eae32c7db6.svg" alt="Total time coded since May 3 2025" /></a>
 <!-- snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DDL08/DDL08/blob/output/github-snake-dark.svg" />
