@@ -36,8 +36,12 @@
 ---
 
 <!-- 自我介绍区 -->
-- 🤔 I’m looking for help with 渗透
-- 🤔 I’m looking for help with 免杀
+- 🌱 I’m currently learning Penetration
+- 🌱 I’m currently learning Virus AV
+- 🤔 I’m looking for help with 👆
+I am willing to make friends and hope to communicate and discuss tool development and red team penetration. If you want to contact me, please send an email to the email address below 👇
+- 📫 ddl08@qq.com
+
 
 <!--
 **DDL08/DDL08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
