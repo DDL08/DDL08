@@ -6,7 +6,7 @@
 <!-- GitHub Stats + Metrics 并排显示 -->
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=DDL08&hide_title=true&hide_border=true&show_icons=true&line_height=24&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="160px" src="https://metrics.lecoq.io/DDL08?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
+  <img height="160px" src="[https://metrics.lecoq.io/DDL08?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DDL08&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)" />
 </div>
 
 <!-- 空行用于美化 -->
