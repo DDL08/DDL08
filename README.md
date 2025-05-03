@@ -3,29 +3,26 @@
 <!-- 标题 -->
 <h2>Hi there 👋</h2>
 
-<!-- Metrics - GitHub 综合统计图 -->
-<img src="https://metrics.lecoq.io/DDL08?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" alt="GitHub Metrics" />
-
-<!-- GitHub Stats 图表 -->
-<div>
+<!-- GitHub Stats + Metrics 并排显示 -->
+<div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=DDL08&hide_title=true&hide_border=true&show_icons=true&line_height=24&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="160px" src="https://metrics.lecoq.io/DDL08?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" />
 </div>
 
 <!-- 空行用于美化 -->
 <div>&nbsp;</div>
 
-<!-- 统计徽章区块 -->
+<!-- 访问量 + WakaTime 并排显示 -->
 <div align="center">
-
-  <!-- 访问量 -->
-  <img src="https://komarev.com/ghpvc/?username=DDL08&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-
-  <!-- WakaTime 编码统计徽章 -->
+  <img src="https://komarev.com/ghpvc/?username=DDL08&label=Views&color=orange&style=flat" alt="访问量统计" />
+  &emsp;
   <a href="https://wakatime.com/@4d4c2085-e3e6-4146-ab02-73eae32c7db6">
     <img src="https://wakatime.com/badge/user/4d4c2085-e3e6-4146-ab02-73eae32c7db6.svg" alt="Total time coded since May 3 2025" />
   </a>
-
 </div>
+
+<!-- 空行用于美观 -->
+<div>&nbsp;</div>
 
 <!-- GitHub Snake 动画区块 -->
 <picture>
@@ -55,6 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
