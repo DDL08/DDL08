@@ -2,7 +2,7 @@
 
 <!-- 标题 -->
 <h2>Hi there 👋</h2>
-
+<img width="200%" src="https://github.com/DDL08/images/blob/main/hr.gif?raw=true" />
 <!-- GitHub Stats + Metrics 并排显示 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=DDL08&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
