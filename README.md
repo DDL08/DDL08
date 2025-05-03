@@ -37,6 +37,7 @@
 
 <!-- 自我介绍区 -->
 - 🤔 I’m looking for help with 渗透
+- 🤔 I’m looking for help with 免杀
 
 <!--
 **DDL08/DDL08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
