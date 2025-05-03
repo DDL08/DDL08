@@ -13,6 +13,13 @@
 <img src="https://komarev.com/ghpvc/?username=DDL08&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
 - 🤔 I’m looking for help with 渗透
+
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DDL08/DDL08/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DDL08/DDL08/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!--
 **DDL08/DDL08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
