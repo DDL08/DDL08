@@ -2,6 +2,15 @@
 
 <!-- 标题 -->
 <h2>Hi there 👋</h2>
+---
+
+<!-- 自我介绍区 -->
+- 🌱 I’m currently learning Penetration
+- 🌱 I’m currently learning Virus AV
+- 🤔 I’m looking for help with 👆
+- I am willing to make friends and hope to communicate and discuss tool development and red team penetration. If you want to contact me, please send an email to the email address below 👇
+- 📫 ddl08@qq.com
+
 <img width="200%" src="https://github.com/DDL08/images/blob/main/hr.gif?raw=true" />
 <!-- GitHub Stats + Metrics 并排显示 -->
 <div align="center">
@@ -33,14 +42,6 @@
 
 </div>
 
----
-
-<!-- 自我介绍区 -->
-- 🌱 I’m currently learning Penetration
-- 🌱 I’m currently learning Virus AV
-- 🤔 I’m looking for help with 👆
-- I am willing to make friends and hope to communicate and discuss tool development and red team penetration. If you want to contact me, please send an email to the email address below 👇
-- 📫 ddl08@qq.com
 
 
 <!--
